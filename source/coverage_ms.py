@@ -20,7 +20,7 @@ except Exception:
 base = -4949.2939523
 flag = "Message: DMol3 job finished successfully"
 regex = r"^\S*" + flag
-
+# 定义列表
 minf_list = []
 mineg_list = []
 Q_sum_list = []
