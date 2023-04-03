@@ -5,6 +5,7 @@ import MS_api as ms
 conn = ms.connect_to_db(r"../date/ms_date.db")
 
 dr_name = r"../date/outmol"
+# 定义目录名称
 
 path = dr_name
 dr_res = dr_name + "_results/"
